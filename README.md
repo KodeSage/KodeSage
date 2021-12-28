@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KodeSage)
 
 
- ### Glad to See you Here  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${kodesage})
+ ### Glad to See you Here !!!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${kodesage})
  I am a Software Developer who is focused on transforming UI designs into code and building reusable components, maintaining efficeint software systems that are robust, scalable and user friendly. A good team player and extremely prompt to problem solving . Always looking for opportunities to work with cutting-edge technology in order to give my best.
  
  <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
