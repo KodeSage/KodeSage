@@ -40,6 +40,12 @@ No Activity tracked this Week
 <br />
 <br />
 
+[![KodeSage's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kodesage&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+<br />
+
 📈 **My GitHub Stats:**
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=kodesage&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> 
