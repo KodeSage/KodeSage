@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/james-harrison-212a66198/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KodeSage)
 
-<a href="https://app.daily.dev/KodeSage"><img src="https://api.daily.dev/devcards/4c42ea1f65d545f88b9ef3c2246f40db.png?r=vyr" width="400" alt="James Harrison's Dev Card"/></a>
+<a href="https://app.daily.dev/KodeSage"><img src="https://api.daily.dev/devcards/4c42ea1f65d545f88b9ef3c2246f40db.png?r=5dm" width="400" alt="James Harrison's Dev Card"/></a>
+
 
 
  ### Glad to See you Here !!!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${kodesage})
