@@ -8,7 +8,7 @@
 
 
  ### Glad to See you Here !!!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${kodesage})
- I am a Software Developer who is focused on transforming UI designs into code and building reusable components, maintaining efficeint software systems that are scalable and user friendly. A good team player and extremely prompt to problem solving . Always looking for opportunities to work with cutting-edge technology in order to give my best.
+ I create clean, appealing, functional interfaces and reusable components that adhere to the most recent standards.
  
  <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
  
