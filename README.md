@@ -26,6 +26,7 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Solidity" width="30px" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" />
 
 <br />
 <br />
@@ -55,7 +56,7 @@ TOML         7 mins          ▒░░░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats:**
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=kodesage&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kodesage&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/>
 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodesage&hide=hack,html,php&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>
 
