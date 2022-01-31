@@ -10,6 +10,10 @@
  ### Glad to See you Here !!!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${kodesage})
  I create clean, appealing, functional interfaces and reusable components that adhere to the most recent standards.
  
+Currently , I'm fascinated by/with the Web3 space and it's potential for even smarter and trustless society.
+I am looking forward to join Team's focused on building this next frontier of web.
+ 
+ 
  <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
  
  **Talking about Personal Stuffs:**
