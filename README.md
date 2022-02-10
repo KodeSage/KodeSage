@@ -59,6 +59,7 @@ JSON         15 mins         █░░░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats:**
 
+<a href="https://github.com/kodesage/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kodesage&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kodesage&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/>
 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodesage&hide=hack,html,php&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>
