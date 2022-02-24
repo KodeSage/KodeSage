@@ -5,7 +5,7 @@
 
 <a href="https://app.daily.dev/KodeSage"><img src="https://api.daily.dev/devcards/4c42ea1f65d545f88b9ef3c2246f40db.png?r=5dm" width="400" alt="James Harrison's Dev Card"/></a>
 
-
+Motto : `Impossible is Nothing`
 
  ### Glad to See you Here !!!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${kodesage})
  I create clean, appealing, functional interfaces and reusable components that adhere to the most recent standards.
