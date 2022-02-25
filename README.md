@@ -44,11 +44,11 @@ I am looking forward to join Team's focused on building this next frontier of we
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 22 mins   █████████████░░░░░░░░░░░░   51.71 % 
-Solidity     4 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-JSON         1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-HTML         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-CSS          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+JavaScript   4 hrs 48 mins   ██████████▒░░░░░░░░░░░░░░   41.42 % 
+Solidity     4 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.63 % 
+JSON         1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+HTML         53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+CSS          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 <!--END_SECTION:waka-->
 <br />
