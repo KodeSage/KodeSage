@@ -20,7 +20,7 @@ I am looking forward to join Team's focused on building this next frontier of we
  
  - 👨🏻‍💻 I’m currently working on something cool;
 - ⚡ I love and enjoy watching Anime 😎.
-- 📫 How to reach me:  jamesharrison.s@gmail.com;
+- 📫 How to reach me:  jamesharrisonsomtochi@gmail.com;
 - 💬 Ask me about anything, I am happy to help;
 <br />
 
