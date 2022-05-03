@@ -18,7 +18,8 @@ I am looking forward to join Team's focused on building this next frontier of we
  
  **Talking about Personal Stuffs:**
  
- - 👨🏻‍💻 I’m currently working on something cool;
+ - 👨🏻‍💻 I’m currently learning about `ZK-Proofs` and working to build DAPPS that utilize ZK-Models using `ZK-Snarks`;
+In a Nutshell, `ZK-Proof` simply means the ability to proof honest Computation without revealing Inputs. It's used for `Scalabilty` and `Privacy`.
 - ⚡ I love and enjoy watching Anime 😎.
 - 📫 How to reach me:  jamesharrisonsomtochi@gmail.com;
 - 💬 Ask me about anything, I am happy to help;
