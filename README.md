@@ -51,10 +51,10 @@ In a Nutshell, `ZK-Proof` simply means the ability to proof honest Computation w
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 36 mins   █████████████▒░░░░░░░░░░░   52.67 %
-Bash         3 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
-CSS          1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Other        1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+JavaScript   7 hrs 51 mins   ██████████▒░░░░░░░░░░░░░░   41.98 %
+CSS          5 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   30.26 %
+Bash         3 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+Other        1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
 ```
 
 <!--END_SECTION:waka-->
