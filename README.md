@@ -34,10 +34,10 @@ In a Nutshell, `ZK-Proof` simply means the ability to proof honest Computation w
 <table> 
  <tr>
   <td valign="top" width="33%">
-    ## Languages
+   ### Programming Languages
    <div align="center">  
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-   <img style="margin: 10px" src="  https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="JavaScript" height="50" /> 
+   <img style="margin: 10px" src="  https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
    <img style="margin: 10px" alt="Solidity" height="50"          src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" />
     </div>
    </td>
