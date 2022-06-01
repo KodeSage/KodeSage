@@ -18,7 +18,7 @@ I am looking forward to join Team's focused on building this next frontier of we
  
  **Talking about Personal Stuffs:**
  
- - 👨🏻‍💻 I’m currently learning about `ZK-Proofs` and working to build DAPPS that utilize ZK-Models using `ZK-Snarks`;
+ - 👨🏻‍💻 I’m currently learning about `ZK-Proofs` and working to build and Deploy DAPPS on `Polygon Blockchain Network` that utilize ZK-Models using `Polygon Hermez Network`
 In a Nutshell, `ZK-Proof` simply means the ability to proof honest Computation without revealing Inputs. It's used for `Scalabilty` and `Privacy`.
 - ⚡ I love and enjoy watching Anime 😎.
 - 📫 How to reach me:  jamesharrisonsomtochi@gmail.com;
