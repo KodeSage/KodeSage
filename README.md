@@ -30,8 +30,31 @@ In a Nutshell, `ZK-Proof` simply means the ability to proof honest Computation w
    - View my Builder Profile here 👉 **https://bazaar.buidlguidl.com/builders/0x93441a6eC391e28CaF1b93Ee3f2c8e91d2a6e964**
  
 
-## 🛠 Favourite Languages and Tools
+## 🛠 Languages and Tools
+<table> 
+ <tr>
+  <td valign="top" width="33%">
+    ## Languages
+   <div align="center">  
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
+   <img style="margin: 10px" src="  https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="JavaScript" height="50" /> 
+   <img style="margin: 10px" alt="Solidity" height="50"          src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" />
+    </div>
+   </td>
  
+ </tr>
+ 
+ 
+ <tr>
+ </tr>
+ 
+ <tr>
+ </tr>
+
+</table>  
+ <div align="center"> 
+
+</div>
 <img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
