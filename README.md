@@ -28,6 +28,10 @@ In a Nutshell, `ZK-Proof` simply means the ability to proof honest Computation w
 ## Builder at Speed_Etherum_Hub(BuidGuild🚀) 
 
    - View my Builder Profile here 👉 **https://bazaar.buidlguidl.com/builders/0x93441a6eC391e28CaF1b93Ee3f2c8e91d2a6e964**
+
+## Graph Statistics
+
+<a href="https://github.com/KodeSage/github-readme-activity-graph"><img alt="KodeSage's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KodeSage&theme=chartreuse-dark&hide_border=true" /></a>
  
 
 ## 🛠 Languages and Tools
