@@ -14,7 +14,7 @@ Currently , I'm fascinated by/with the Web3 space and it's potential for even sm
 I am looking forward to join Team's focused on building this next frontier of web.
  
  
- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+ <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="818px" height="818px" />
  
  **Talking about Personal Stuffs:**
  
@@ -67,13 +67,16 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 <br />
 <br />
 
-[![KodeSage's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kodesage&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![KodeSage's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kodesage&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
 <br />
 
-📈 **My GitHub Stats:**
+<p align="center" width="60px" >
+    📊 My Github Stats 📈
+ </p>
 
 <p align="center">
     <a href="https://github.com/KodeSage/github-readme-streak-stats">
