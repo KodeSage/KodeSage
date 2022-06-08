@@ -75,10 +75,18 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats:**
 
-<a href="https://github.com/kodesage/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kodesage&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kodesage&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/>
+<p align="center">
+    <a href="https://github.com/KodeSage/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KodeSage's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KodeSage&theme=blue-green&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+    <a href="https://github.com/KodeSage/github-readme-stats"><img alt="KodeSage's Github Stats" align="left"  src="https://github-readme-stats.vercel.app/api?username=KodeSage&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodesage&hide=hack,html,php&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>
+
+
+  <a href="https://github.com/GhostGramm/github-readme-stats"><img alt="KodeSage's Top Languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeSage&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
+
+ 
 
 
 
