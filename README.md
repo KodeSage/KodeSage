@@ -54,12 +54,10 @@ In a Nutshell, `ZK-Proof` simply means the ability to proof honest Computation w
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 41 mins   ████████████████████▒░░░░   80.69 %
-HTML         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Solidity     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-CSS          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript   2 hrs 55 mins   █████████████▓░░░░░░░░░░░   54.39 %
+Solidity     2 hrs 7 mins    ██████████░░░░░░░░░░░░░░░   39.45 %
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
