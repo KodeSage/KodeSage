@@ -54,8 +54,8 @@ I am looking forward to join Team's focused on building this next frontier of we
 
 ```txt
 SCSS         6 hrs 12 mins   ██████████████████▓░░░░░░   74.15 %
-TypeScript   2 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+TypeScript   2 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   24.10 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
