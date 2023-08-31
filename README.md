@@ -53,11 +53,11 @@ I am looking forward to join Team's focused on building this next frontier of we
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       2 hrs 1 min     ████████████▒░░░░░░░░░░░░   49.94 %
-TypeScript       1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
-Bash             17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-JSON             15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-HTML             12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+SCSS         56 mins         ██████████████████▒░░░░░░   72.71 %
+TypeScript   19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
