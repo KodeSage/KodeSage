@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KodeSage)
 
 
-Motto : `Impossible is Nothing`
+MANTRA: : `Impossible is Nothing 🚀 || I think it's possible for ordinary people to choose to be extraordinary`
 
 ### About Me
  - I'm a Software Engineer with over 3 years experience building everything and anything on the web cut across both on the web2/web3 space. 
