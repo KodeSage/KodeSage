@@ -15,6 +15,13 @@ MANTRA: : `Impossible is Nothing 🚀 || I think it's possible for ordinary peop
  
  
  <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="818px" height="818px" />
+
+
+### Completed Projects 
+  - [GameDevHive](https://www.gamedevshive.org/)
+  - [Blockplot](https://www.blockplot.org/)
+  - [Muta](muta.vercel.app/)
+  - [Auctus](https://auctusmagnum.com/)
  
 
 
