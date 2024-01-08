@@ -30,7 +30,8 @@ I am looking forward to join Team's focused on building this next frontier of we
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   10 mins         ████████████████████████▓   98.20 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
