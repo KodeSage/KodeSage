@@ -23,6 +23,7 @@ I am looking forward to join Team's focused on building this next frontier of we
   - [Blockplot](https://www.blockplot.org/)
   - [Muta](muta.vercel.app/)
   - [Auctus](https://auctusmagnum.com/)
+  - [Lynkk](https://www.lynkk.io/)
  
 
 📊 **This Week I Spent My Time On:**
