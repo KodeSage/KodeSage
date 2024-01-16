@@ -21,7 +21,7 @@ I am looking forward to join Team's focused on building this next frontier of we
   - [GameDevHive](https://www.gamedevshive.org/)
   - [Konnadex](https://www.konnadex.com/)
   - [Blockplot](https://www.blockplot.org/)
-  - [Muta](muta.vercel.app/)
+  - [Muta](https://muta.vercel.app/)
   - [Auctus](https://auctusmagnum.com/)
   - [Lynkk](https://www.lynkk.io/)
  
