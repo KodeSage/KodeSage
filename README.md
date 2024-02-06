@@ -31,11 +31,11 @@ I am looking forward to join Team's focused on building this next frontier of we
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 14 mins   ██████████████████████▒░░   89.58 %
-JavaScript   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Rust         4 hrs 34 mins   ████████████████░░░░░░░░░   64.38 %
+JavaScript   1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+TOML         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+JSON         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+CSS          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
