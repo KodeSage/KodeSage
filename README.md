@@ -35,7 +35,8 @@ React
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   16 mins         █████████████████████████   100.00 %
+TypeScript   33 mins         ████████████████████████▓   98.29 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
