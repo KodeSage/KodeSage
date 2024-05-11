@@ -25,10 +25,6 @@ React
   - [GameDevHive](https://www.gamedevshive.org/)
   - [Konnadex](https://www.konnadex.com/)
   - [Blockplot](https://www.blockplot.org/)
-  - [Muta](https://muta.vercel.app/)
-  - [Auctus](https://auctusmagnum.com/)
-  - [Lynkk](https://www.lynkk.io/)
- 
 
 📊 **This Week I Spent My Time On:**
 
