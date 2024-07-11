@@ -32,11 +32,11 @@ React
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    15 hrs 31 mins  ████████████████▓░░░░░░░░   66.08 %
-JavaScript    2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Solidity      1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-MDX           1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-CSS           1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+TypeScript    15 hrs 31 mins  ████████████████▓░░░░░░░░   67.10 %
+MDX           2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+JavaScript    2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+CSS           1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Solidity      37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
