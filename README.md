@@ -16,7 +16,7 @@ I am looking forward to join Team's focused on building this next frontier of we
 Solidity, Javascript, Typescript, Rust and Cairo
 
 ### Frameworks
-React
+React, Nextjs and Vue
  
  <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="818px" height="818px" />
 
