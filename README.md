@@ -6,6 +6,13 @@
 <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="818px" height="818px" />
 
 
+#### Programming Language(s) Forte 🙂‍↔️ 
+- Typescript
+- Javascript
+- Solidity
+- Rust
+- Cairo
+
 
 
 <!--START_SECTION:waka-->
