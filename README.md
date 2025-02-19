@@ -2,6 +2,7 @@
 
 `Impossible is Nothing 🚀 || I think it's possible for ordinary people to choose to be extraordinary`
 
+📫 How to reach me: jamesharrisonsomtochi@gmail.com
  
 <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="818px" height="818px" />
 
