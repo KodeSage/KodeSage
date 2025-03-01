@@ -1,4 +1,4 @@
-## Hi there, I'm James Harrsion Somto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm James Harrison Somto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 `Impossible is Nothing 🚀 || I think it's possible for ordinary people to choose to be extraordinary`
 
