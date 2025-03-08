@@ -25,11 +25,11 @@ I thrive in teams that push boundaries, solving complex problems with innovative
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 28 mins   █████████████░░░░░░░░░░░░   51.80 %
-Rust         2 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
-HTML         1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-CSS          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+TypeScript   9 hrs 24 mins   ████████████████▒░░░░░░░░   64.95 %
+Rust         2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+HTML         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Bash         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
