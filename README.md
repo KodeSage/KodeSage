@@ -21,6 +21,16 @@ I thrive in teams that push boundaries, solving complex problems with innovative
 - 🛠 Frameworks: **React**, **Next.js**, **Foundry**, **CosmWasm**, **Starknet Foundry**
 
 
+### Open Source Contributions(Mostly Paid)
+- [Stellar Technical Documentation](https://github.com/stellar/stellar-docs/commits?author=KodeSage)
+- [Usetrmnl Plugins](https://github.com/usetrmnl/plugins/commits?author=KodeSage)
+- [WorldCoin Linea Bridge](https://github.com/kfastov/worldcoin-bridge-linea)
+- [Starknet Scaffold](https://github.com/horuslabsio/Starknet-Scaffold)
+- [FireProof VibeCoding](https://github.com/fireproof-storage/fireproof/issues/613): 
+  1. [Trip Genius](https://github.com/KodeSage/tripgenius)
+  2. [Taskify](https://github.com/KodeSage/taskify)
+
+
 
 <!--START_SECTION:waka-->
 
