@@ -29,7 +29,8 @@ I thrive in teams that push boundaries, solving complex problems with innovative
 - [FireProof VibeCoding](https://github.com/fireproof-storage/fireproof/issues/613): 
   1. [Trip Genius](https://github.com/KodeSage/tripgenius)
   2. [Taskify](https://github.com/KodeSage/taskify)
-
+- [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer/issues/8229)
+    1. [Website Rebrand](https://orcaslicer.com/)
 
 
 <!--START_SECTION:waka-->
