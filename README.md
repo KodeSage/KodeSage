@@ -36,7 +36,9 @@ I thrive in teams that push boundaries, solving complex problems with innovative
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   12 mins         █████████████████████████   100.00 %
+Bash       12 mins         ██████████████▒░░░░░░░░░░   57.32 %
+Markdown   9 mins          ██████████▒░░░░░░░░░░░░░░   41.56 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
