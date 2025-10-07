@@ -18,7 +18,7 @@ I thrive in teams that push boundaries, solving complex problems with innovative
 ### Tech Stack 🚀
 
 - 🛠 Languages: **Solidity**, **JavaScript**, **TypeScript**, **Rust**, **Cairo**
-- 🛠 Frameworks: **React**, **Next.js**, **Foundry**, **CosmWasm**, **Starknet Foundry**
+- 🛠 Frameworks: **React**, **React Native**,  **Next.js**, **Foundry**, **CosmWasm**, **Starknet Foundry**
 
 
 ### Open Source Contributions(Mostly Paid)
