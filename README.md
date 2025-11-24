@@ -31,8 +31,18 @@ I thrive in teams that push boundaries, solving complex problems with innovative
   2. [Taskify](https://github.com/KodeSage/taskify)
 - [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer/issues/8229#issuecomment-2722687745)
     1. [Website Rebrand](https://orcaslicer.com/)
+ - [Passage Marketplace](https://marketplace.passage.io/)
+  - [Passage Staking Contract Audit](https://github.com/Passage-Chain/community/issues/7)
 
 
+### Clients Projects
+- [Konnadex](https://www.konnadex.com/)
+- [AssetChain Swap](https://swap.assetchain.org/)
+- [AssetChain Bridge](https://bridge.assetchain.org/)
+- [AssetChain Staking](https://stake.assetchain.org/)
+- [AssetChain Explorer](https://explorer.assetchain.org/)
+- [Xend Finance](https://xend.africa/)
+ 
 <!--START_SECTION:waka-->
 
 ```txt
