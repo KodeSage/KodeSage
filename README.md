@@ -41,6 +41,9 @@ I thrive in teams that push boundaries, solving complex problems with innovative
 - [AssetChain Bridge](https://bridge.assetchain.org/)
 - [AssetChain Staking](https://stake.assetchain.org/)
 - [AssetChain Explorer](https://explorer.assetchain.org/)
+- [AssetChain Leaderboard](https://leaderboard.assetchain.org/)
+- [Asset Chain Liquidity](https://app.assetchain.org/)
+- [Asset Chain Faucet](https://faucet.assetchain.org/)
 - [Xend Finance](https://xend.africa/)
  
 <!--START_SECTION:waka-->
