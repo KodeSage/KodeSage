@@ -49,11 +49,11 @@ I thrive in teams that push boundaries, solving complex problems with innovative
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   41.80 %
-Bash         1 hr 30 mins    ███████░░░░░░░░░░░░░░░░░░   27.70 %
-Markdown     36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-JSON         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-YAML         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+TypeScript   1 hr 58 mins    █████████▓░░░░░░░░░░░░░░░   38.27 %
+Bash         1 hr 30 mins    ███████▒░░░░░░░░░░░░░░░░░   29.39 %
+Markdown     36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+JSON         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+YAML         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
 ```
 
 <!--END_SECTION:waka-->
