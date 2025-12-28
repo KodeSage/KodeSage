@@ -104,9 +104,11 @@ I thrive in teams that push boundaries—solving complex engineering problems wi
 ## 📈 GitHub Activity
 
 <!--START_SECTION:waka-->
+
 ```txt
 No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
