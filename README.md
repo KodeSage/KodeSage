@@ -106,7 +106,11 @@ I thrive in teams that push boundaries—solving complex engineering problems wi
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         10 mins         ███████████████████████▒░   93.14 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
