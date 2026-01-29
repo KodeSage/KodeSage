@@ -141,94 +141,6 @@ I'm passionate about contributing to the open source community and have made sig
 ---
 
 
-# 💼 Client Projects
-
-Delivering production-ready blockchain solutions and fintech platforms for enterprise clients:
-
----
-
-## 🔗 AssetChain Ecosystem
-
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
-<b>Token Swap</b><br/>
-<a href="https://swap.assetchain.org/">Live Platform</a><br/>
-💱 DEX Trading
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
-<b>Cross-chain Bridge</b><br/>
-<a href="https://bridge.assetchain.org/">Live Platform</a><br/>
-🌉 Asset Transfers
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
-<b>Staking Platform</b><br/>
-<a href="https://stake.assetchain.org/">Live Platform</a><br/>
-💰 Yield Generation
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
-<b>Block Explorer</b><br/>
-<a href="https://explorer.assetchain.org/">Live Platform</a><br/>
-🔎 Chain Analytics
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
-<b>Leaderboard</b><br/>
-<a href="https://leaderboard.assetchain.org/">Live Platform</a><br/>
-🏆 Community Rankings
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
-<b>Liquidity Hub</b><br/>
-<a href="https://app.assetchain.org/">Live Platform</a><br/>
-💧 LP Management
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
-<b>Testnet Faucet</b><br/>
-<a href="https://faucet.assetchain.org/">Live Platform</a><br/>
-🚰 Dev Resources
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-Ecosystem-00D4AA?style=for-the-badge&logo=link&logoColor=white" alt="Ecosystem"/><br/>
-<b>Full Ecosystem</b><br/>
-<br/>
-🚀 7 Products<br/>
-⚡ All Production
-</td>
-</tr>
-</table>
-
----
-
-## 🏦 DeFi & Payment Platforms
-
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-Konnadex-6366F1?style=for-the-badge&logo=stripe&logoColor=white" alt="Konnadex"/><br/>
-<b>Konnadex</b><br/>
-<a href="https://www.konnadex.com/">Live Platform</a><br/>
-🔄 Web3 Payments
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-Xend_Finance-1E40AF?style=for-the-badge&logo=bank&logoColor=white" alt="Xend"/><br/>
-<b>Xend Finance</b><br/>
-<a href="https://xend.africa/">Live Platform</a><br/>
-🏦 DeFi Savings
-</td>
-</tr>
-</table>
-
----
-
-
 
 
 ## 📈 GitHub Activity
@@ -251,8 +163,8 @@ TOML         28 mins         ██▒░░░░░░░░░░░░░░
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KodeSage)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesharrisonsomtochi@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xkodesage)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-somto-james/)
 
 ---
 
