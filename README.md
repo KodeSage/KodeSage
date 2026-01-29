@@ -22,20 +22,18 @@ I thrive in teams that push boundaries—solving complex engineering problems wi
 ---
 
 🚀 **Open to collaborating with teams building the future of the internet. Let’s connect!**  
-📫 **Reach me:** [jamesharrisonsomtochi@gmail.com](mailto:jamesharrisonsomtochi@gmail.com)
+📫 **Contact:** [jamesharrisonsomtochi@gmail.com](mailto:jamesharrisonsomtochi@gmail.com)
 
-
-<img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="818px" height="818px" />
+💬 **Discord:** [0xkodesage](https://discord.com/users/742020348077408307)
 
 ---
+
 
 ## 💻 Tech Stack 🚀
 
-| 🛠 Languages | 🎨 Frontend & Mobile | ⚙️ Blockchain & Smart Contracts |
+| 🛠 Languages | 🎨 Frontend & Mobile | ⚙️ Web3 and Infrastructure |
 |-------------|---------------------|----------------------------------|
-| ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)<br/>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br/>![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br/>![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)<br/>![Cairo](https://img.shields.io/badge/-Cairo-FF4B00?style=flat-square&logo=starknet&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)<br/>![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)<br/>![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)<br/>![CosmWasm](https://img.shields.io/badge/-CosmWasm-5064FB?style=flat-square&logo=cosmos&logoColor=white)<br/>![Starknet](https://img.shields.io/badge/-Starknet-FF4B00?style=flat-square&logo=starknet&logoColor=white) |
-
----
+| ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)<br/>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br/>![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br/>![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)<br/>![Cairo](https://img.shields.io/badge/-Cairo-FF4B00?style=flat-square&logo=starknet&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)<br/>![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)<br/>![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)<br/>![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)<br/>![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)<br/>![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)<br/>![Radix UI](https://img.shields.io/badge/-Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white) | ![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)<br/>![CosmWasm](https://img.shields.io/badge/-CosmWasm-5064FB?style=flat-square&logo=cosmos&logoColor=white)<br/>![Starknet](https://img.shields.io/badge/-Starknet-FF4B00?style=flat-square&logo=starknet&logoColor=white) | 
 
 # 🏆 Open Source Impact
 
