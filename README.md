@@ -37,69 +37,199 @@ I thrive in teams that push boundaries—solving complex engineering problems wi
 
 ---
 
-## 🏆 Open Source Contributions (Mostly Paid)
+# 🏆 Open Source Impact
 
-### 📚 Documentation & Developer Tools
-
-| Project | Contribution | Impact |
-|---------|-------------|--------|
-| ![Stellar](https://img.shields.io/badge/-Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white) **[Stellar Technical Documentation](https://github.com/stellar/stellar-docs/commits?author=KodeSage)** | Technical documentation contributions | Helping developers build on Stellar blockchain |
-| ![Terminal](https://img.shields.io/badge/-Trmnl-000000?style=flat-square&logo=terminal&logoColor=white) **[Usetrmnl Plugins](https://github.com/usetrmnl/plugins/commits?author=KodeSage)** | Plugin development | Expanding terminal capabilities |
-
-### 🔗 Blockchain Infrastructure
-
-| Project | Contribution | Impact |
-|---------|-------------|--------|
-| ![WorldCoin](https://img.shields.io/badge/-WorldCoin-000000?style=flat-square&logo=worldcoin&logoColor=white) **[WorldCoin Linea Bridge](https://github.com/kfastov/worldcoin-bridge-linea)** | Cross-chain bridge development | Enabling WorldCoin on Linea |
-| ![Starknet](https://img.shields.io/badge/-Starknet-FF4B00?style=flat-square&logo=starknet&logoColor=white) **[Starknet Scaffold](https://github.com/horuslabsio/Starknet-Scaffold)** | Developer scaffolding tool | Streamlining Starknet dApp development |
-| ![Passage](https://img.shields.io/badge/-Passage-5064FB?style=flat-square&logo=cosmos&logoColor=white) **[Passage Marketplace](https://marketplace.passage.io/)** | NFT marketplace development | Live production marketplace |
-| ![Security](https://img.shields.io/badge/-Security_Audit-FF0000?style=flat-square&logo=security&logoColor=white) **[Passage Staking Contract Audit](https://github.com/Passage-Chain/community/issues/7)** | Smart contract security audit | Ensuring protocol security |
-
-### 🔥 FireProof VibeCoding Challenge
-
-**[FireProof VibeCoding](https://github.com/fireproof-storage/fireproof/issues/613)** - Built two full-stack applications:
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| 🌍 **[Trip Genius](https://github.com/KodeSage/tripgenius)** | AI-powered travel planning application | React, FireProof DB |
-| ✅ **[Taskify](https://github.com/KodeSage/taskify)** | Task management with real-time sync | React, FireProof DB |
-
-### 🖨️ 3D Printing Ecosystem
-
-| Project | Contribution | Impact |
-|---------|-------------|--------|
-| ![OrcaSlicer](https://img.shields.io/badge/-OrcaSlicer-FF6B00?style=flat-square&logo=3d&logoColor=white) **[OrcaSlicer](https://github.com/SoftFever/OrcaSlicer/issues/8229#issuecomment-2722687745)** | Feature development & issue resolution | Improved 3D printing workflow |
-| 🌐 **[Website Rebrand](https://orcaslicer.com/)** | Complete website redesign | Modern, user-friendly interface |
+I'm passionate about contributing to the open source community and have made significant contributions to major projects:
 
 ---
 
-## 💼 Client Projects
+## 🌟 Featured Contributions
 
-### 🏦 DeFi & Trading Platforms
+### 🔗 Blockchain & Web3 Projects
 
-| Project | Type |
-|---------|------|
-| 🔄 **[Konnadex](https://www.konnadex.com/)** | Web3 payment gateway and invoicing platform 
-| 💱 **[AssetChain Swap](https://swap.assetchain.org/)** | Token Swap Platform | Production |
-| 🌉 **[AssetChain Bridge](https://bridge.assetchain.org/)** | Cross-chain Bridge | Production |
-| 💰 **[AssetChain Staking](https://stake.assetchain.org/)** | Staking Platform | Production |
-
-### 🔍 Blockchain Infrastructure
-
-| Project | Type |
-|---------|------|
-| 🔎 **[AssetChain Explorer](https://explorer.assetchain.org/)** | Block Explorer 
-| 🏆 **[AssetChain Leaderboard](https://leaderboard.assetchain.org/)** | Community Rankings | Production |
-| 💧 **[Asset Chain Liquidity](https://app.assetchain.org/)** | Liquidity Management | Production |
-| 🚰 **[Asset Chain Faucet](https://faucet.assetchain.org/)** | Testnet Faucet | Production |
-
-### 💳 Fintech Solutions
-
-| Project | Type |
-|---------|------|
-| 🏦 **[Xend Finance](https://xend.africa/)** | DeFi Savings Platform |
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar"/><br/>
+<b>Stellar</b><br/>
+<a href="https://github.com/stellar/stellar-docs/pull/735">PR #735</a> | <a href="https://github.com/stellar/stellar-docs/commit/0f062e93bf84f9da00295218139d25b9c6c546c2">PR #887</a><br/>
+<a href="https://github.com/stellar/stellar-docs/commit/a980b63cedf4230a5a879e4170bccbc3bd8f7459">Commit</a> | <a href="https://github.com/stellar/stellar-docs/commit/047f2884968010468bcf5e4021da5fc322ea63f5">Commit</a><br/>
+📖 Technical Docs
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-WorldCoin-000000?style=for-the-badge&logo=worldcoin&logoColor=white" alt="WorldCoin"/><br/>
+<b>WorldCoin Bridge</b><br/>
+<a href="https://github.com/kfastov/worldcoin-bridge-linea">Repo</a><br/>
+🌉 Linea Bridge
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Starknet-FF4B00?style=for-the-badge&logo=starknet&logoColor=white" alt="Starknet"/><br/>
+<b>Starknet Scaffold</b><br/>
+<a href="https://github.com/horuslabsio/Starknet-Scaffold">Repo</a><br/>
+🛠️ Dev Scaffolding
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Passage-5064FB?style=for-the-badge&logo=cosmos&logoColor=white" alt="Passage"/><br/>
+<b>Passage Chain</b><br/>
+<a href="https://marketplace.passage.io/">Live Marketplace</a> | <a href="https://github.com/Passage-Chain/community/issues/7">Audit</a><br/>
+🎨 NFT Marketplace
+</td>
+</tr>
+</table>
 
 ---
+
+### 🛠️ Developer Tools & Infrastructure
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="Trmnl"/><br/>
+<b>Usetrmnl</b><br/>
+<a href="https://github.com/usetrmnl/plugins/commits?author=KodeSage">Commits</a><br/>
+🔌 Plugin Development
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-FireProof-FF6600?style=for-the-badge&logo=firebase&logoColor=white" alt="FireProof"/><br/>
+<b>Trip Genius</b><br/>
+<a href="https://github.com/KodeSage/tripgenius">Repo</a><br/>
+🌍 AI Travel Planning
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-FireProof-FF6600?style=for-the-badge&logo=firebase&logoColor=white" alt="FireProof"/><br/>
+<b>Taskify</b><br/>
+<a href="https://github.com/KodeSage/taskify">Repo</a><br/>
+✅ Task Management
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-VibeCoding-9B59B6?style=for-the-badge&logo=code&logoColor=white" alt="Challenge"/><br/>
+<b>FireProof Challenge</b><br/>
+<a href="https://github.com/fireproof-storage/fireproof/issues/613">Issue #613</a><br/>
+🔥 Full-Stack Apps
+</td>
+</tr>
+</table>
+
+---
+
+### 🎨 Creative Tools & 3D Printing
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-OrcaSlicer-FF6B00?style=for-the-badge&logo=3d&logoColor=white" alt="OrcaSlicer"/><br/>
+<b>OrcaSlicer</b><br/>
+<a href="https://github.com/SoftFever/OrcaSlicer/issues/8229#issuecomment-2722687745">Issue #8229</a><br/>
+🖨️ 3D Printing
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/><br/>
+<b>OrcaSlicer Website</b><br/>
+<a href="https://orcaslicer.com/">Live Site</a><br/>
+🌐 Complete Rebrand
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-More_Coming-6C757D?style=for-the-badge&logo=git&logoColor=white" alt="More"/><br/>
+<b>And More...</b><br/>
+<br/>
+🚀 10+ Projects<br/>
+📈 Growing Impact
+</td>
+</tr>
+</table>
+
+---
+
+
+# 💼 Client Projects
+
+Delivering production-ready blockchain solutions and fintech platforms for enterprise clients:
+
+---
+
+## 🔗 AssetChain Ecosystem
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
+<b>Token Swap</b><br/>
+<a href="https://swap.assetchain.org/">Live Platform</a><br/>
+💱 DEX Trading
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
+<b>Cross-chain Bridge</b><br/>
+<a href="https://bridge.assetchain.org/">Live Platform</a><br/>
+🌉 Asset Transfers
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
+<b>Staking Platform</b><br/>
+<a href="https://stake.assetchain.org/">Live Platform</a><br/>
+💰 Yield Generation
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
+<b>Block Explorer</b><br/>
+<a href="https://explorer.assetchain.org/">Live Platform</a><br/>
+🔎 Chain Analytics
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
+<b>Leaderboard</b><br/>
+<a href="https://leaderboard.assetchain.org/">Live Platform</a><br/>
+🏆 Community Rankings
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
+<b>Liquidity Hub</b><br/>
+<a href="https://app.assetchain.org/">Live Platform</a><br/>
+💧 LP Management
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-AssetChain-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="AssetChain"/><br/>
+<b>Testnet Faucet</b><br/>
+<a href="https://faucet.assetchain.org/">Live Platform</a><br/>
+🚰 Dev Resources
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Ecosystem-00D4AA?style=for-the-badge&logo=link&logoColor=white" alt="Ecosystem"/><br/>
+<b>Full Ecosystem</b><br/>
+<br/>
+🚀 7 Products<br/>
+⚡ All Production
+</td>
+</tr>
+</table>
+
+---
+
+## 🏦 DeFi & Payment Platforms
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Konnadex-6366F1?style=for-the-badge&logo=stripe&logoColor=white" alt="Konnadex"/><br/>
+<b>Konnadex</b><br/>
+<a href="https://www.konnadex.com/">Live Platform</a><br/>
+🔄 Web3 Payments
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Xend_Finance-1E40AF?style=for-the-badge&logo=bank&logoColor=white" alt="Xend"/><br/>
+<b>Xend Finance</b><br/>
+<a href="https://xend.africa/">Live Platform</a><br/>
+🏦 DeFi Savings
+</td>
+</tr>
+</table>
+
+---
+
+
+
 
 ## 📈 GitHub Activity
 
