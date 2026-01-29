@@ -71,7 +71,7 @@ I'm passionate about contributing to the open source community and have made sig
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/-Passage-5064FB?style=for-the-badge&logo=cosmos&logoColor=white" alt="Passage"/><br/>
 <b>Passage Chain</b><br/>
-<a href="https://marketplace.passage.io/">Live Marketplace</a> | <a href="https://github.com/Passage-Chain/community/issues/7">Audit</a><br/>
+<a href="https://marketplace.passage.io/">Live Marketplace</a> | <a href="https://github.com/orgs/Passage-Chain/projects/1?pane=issue&itemId=76042953&issue=Passage-Chain%7Ccommunity%7C7">Audit</a><br/>
 🎨 NFT Marketplace
 </td>
 </tr>
