@@ -146,11 +146,7 @@ I'm passionate about contributing to the open source community and have made sig
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         30 mins         █████████████████░░░░░░░░   67.79 %
-JSON         6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-TypeScript   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Rust         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
