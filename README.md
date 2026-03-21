@@ -146,11 +146,11 @@ I'm passionate about contributing to the open source community and have made sig
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        2 hrs 17 mins         ████████████████████░░░░░   80.37 %
-Bash              17 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-SCSS              12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Gettext Catalog   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript   1 hr 47 mins          █████████████████████░░░░   83.74 %
+Bash         20 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
