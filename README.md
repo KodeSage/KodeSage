@@ -146,11 +146,11 @@ I'm passionate about contributing to the open source community and have made sig
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 22 mins         ███████████▓░░░░░░░░░░░░░   47.14 %
-Python       1 hr 8 mins           █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
-Markdown     58 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
-Bash         20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Git Config   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+TypeScript   4 hrs 18 mins         ██████████▓░░░░░░░░░░░░░░   42.34 %
+Markdown     1 hr 59 mins          █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+Python       1 hr 35 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Git Config   56 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+Bash         42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
 ```
 
 <!--END_SECTION:waka-->
