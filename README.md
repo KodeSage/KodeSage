@@ -146,11 +146,11 @@ I'm passionate about contributing to the open source community and have made sig
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     31 mins               ████████████░░░░░░░░░░░░░   48.47 %
-Other        19 mins               ███████▓░░░░░░░░░░░░░░░░░   30.03 %
-TypeScript   6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-JSON         3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Text         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Markdown     19 mins               █████████▓░░░░░░░░░░░░░░░   39.02 %
+Other        19 mins               █████████▓░░░░░░░░░░░░░░░   38.05 %
+TypeScript   6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Text         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+JSON         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
