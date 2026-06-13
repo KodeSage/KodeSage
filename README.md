@@ -146,8 +146,9 @@ I'm passionate about contributing to the open source community and have made sig
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 mins                ███████████████████░░░░░░   76.47 %
-JSON         0 secs                ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+Markdown     8 mins                █████████████████▒░░░░░░░   69.20 %
+JavaScript   2 mins                ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+JSON         0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
 ```
 
 <!--END_SECTION:waka-->
