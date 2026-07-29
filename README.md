@@ -44,11 +44,11 @@ I thrive in teams that push boundaries—solving complex engineering problems wi
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         4 hrs 6 mins          ██████████████████▒░░░░░░   73.65 %
-TypeScript   27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Markdown     17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Python       15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-TSConfig     9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Rust         4 hrs 33 mins         █████████████████▒░░░░░░░   68.89 %
+JSON         39 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+TypeScript   27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Python       15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Markdown     12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
