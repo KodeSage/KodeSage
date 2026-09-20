@@ -44,11 +44,11 @@ I thrive in teams that push boundaries—solving complex engineering problems wi
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 37 mins          ████████░░░░░░░░░░░░░░░░░   32.38 %
-HTML         1 hr 6 mins           █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-Bash         35 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Markdown     34 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Other        30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+HTML         1 hr 54 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+TypeScript   1 hr 37 mins          █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+Markdown     1 hr 25 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Other        1 hr 23 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+JavaScript   38 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
 ```
 
 <!--END_SECTION:waka-->
