@@ -6,10 +6,13 @@
 
 ## 🚀 ABOUT ME
 
-I am a **Senior Software Engineer with a First-Principles Mindset** and **5+ years of experience**, focused on building scalable, secure, and impactful products at the intersection of **Web2 and Web3**. I’m passionate about architecting robust systems, optimizing performance, and contributing to the next frontier of decentralized technologies.
+I am a **Senior Software Engineer with a First-Principles Mindset** and **5+ years of experience**. I build software that moves money. Exchanges, bridges, staking platforms, and the smart contracts that hold it all together.
 
-I thrive in teams that push boundaries—solving complex engineering problems with innovative, efficient, and forward-thinking solutions. Whether it’s **smart contracts**, **decentralized applications (dApps)**, or **high-performance Web2 platforms**, I bring deep expertise in **engineering best practices, security, reliability, and scalability**.
+My work spans Rust, TypeScript, and Solidity, from building interfaces and developer tools to working on smart contracts and blockchain infrastructure.
 
+I started with frontend development, but over time I moved deeper into the systems behind the products. These days, I spend most of my time writing Rust and TypeScript, with Solidity when the project requires it.
+
+I live in Nigeria and work remotely with teams all over.
 ---
 
 ### 🚀 What I Do
@@ -31,9 +34,9 @@ I thrive in teams that push boundaries—solving complex engineering problems wi
 
 ## 💻 Tech Stack 🚀
 
-| 🛠 Languages | 🎨 Frontend & Mobile | ⚙️ Web3 and Infrastructure |
-|-------------|---------------------|----------------------------------|
-| ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)<br/>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br/>![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br/>![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)<br/>![Cairo](https://img.shields.io/badge/-Cairo-FF4B00?style=flat-square&logo=starknet&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)<br/>![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)<br/>![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)<br/>![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)<br/>![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)<br/>![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)<br/>![Radix UI](https://img.shields.io/badge/-Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white) | ![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)<br/>![CosmWasm](https://img.shields.io/badge/-CosmWasm-5064FB?style=flat-square&logo=cosmos&logoColor=white)<br/>![Starknet](https://img.shields.io/badge/-Starknet-FF4B00?style=flat-square&logo=starknet&logoColor=white) | 
+| 🛠 Languages 
+|-------------
+| ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)<br/>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br/>![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br/>![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)<br/>![Cairo](https://img.shields.io/badge/-Cairo-FF4B00?style=flat-square&logo=starknet&logoColor=white) 
 
 
 
