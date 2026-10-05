@@ -12,7 +12,6 @@ My work spans Rust, TypeScript, and Solidity, from building interfaces and devel
 
 I started with frontend development, but over time I moved deeper into the systems behind the products. These days, I spend most of my time writing Rust and TypeScript, with Solidity when the project requires it.
 
-I live in Nigeria and work remotely with teams all over.
 ---
 
 ### 🚀 What I Do
