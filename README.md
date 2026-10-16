@@ -46,11 +46,11 @@ I started with frontend development, but over time I moved deeper into the syste
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs                 ███████░░░░░░░░░░░░░░░░░░   27.91 %
-Markdown     1 hr 42 mins          ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-Rust         1 hr                  ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Other        46 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-JSON         33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Markdown     3 hrs 40 mins         ████████▓░░░░░░░░░░░░░░░░   34.55 %
+TypeScript   2 hrs 3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+Other        1 hr 13 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+Rust         54 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Astro        44 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 ```
 
 <!--END_SECTION:waka-->
